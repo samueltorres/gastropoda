@@ -12,7 +12,11 @@
                 { "Clothing" , "clothing" },
                 { "Clothing Jackets" , "clothing-jackets" },
                 { "Clothing  Jackets" , "clothing-jackets" },
-                { "clothing-jackets" , "clothing-jackets" }
+                { "clothing-jackets" , "clothing-jackets" },
+                { "coração ûltimatœ" , "coracao-ultimatoe" },
+                { "òóôõöøőð çćčĉ òóôõöøőð" , "oooooooo-cccc-oooooooo" },
+                { "ŒœŒœŒœ ßßß ìíîïı" , "oeoeoeoeoeoe-ssssss-iiiii" },
+                { "THîS // , Is   /|\\ a TŒst" , "this-is-a-taest" }
             };
 
         [TestMethod]
