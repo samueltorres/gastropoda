@@ -2,9 +2,9 @@
 {
     using System.Collections.Generic;
 
-    public static class CharMaps
+    internal static class CharMaps
     {
-        public static Dictionary<char, string> InternationalToAscii = new Dictionary<char, string>
+        internal static Dictionary<char, string> InternationalToAscii = new Dictionary<char, string>
         {
             {'À', "a"},
             {'Á', "a"},

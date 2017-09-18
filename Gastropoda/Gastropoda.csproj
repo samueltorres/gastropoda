@@ -4,6 +4,18 @@
     <TargetFramework>netstandard2.0</TargetFramework>
     <AssemblyName>Gastropoda</AssemblyName>
     <RootNamespace>Gastropoda</RootNamespace>
+    <PackageId>Gastropoda</PackageId>
+    <PackageVersion>1.0.0</PackageVersion>
+    <Authors>Samuel Torres</Authors>
+    <Description>A very fast C# Slugifer</Description>
+    <PackageRequireLicenseAcceptance>false</PackageRequireLicenseAcceptance>
+    <PackageReleaseNotes>First release</PackageReleaseNotes>
+    <PackageTags>url slugifier slug slugs urls friendly-url friendly generator</PackageTags>
+    <RepositoryUrl>https://github.com/samueltorres/gastropoda</RepositoryUrl>
+    <PackageProjectUrl>https://github.com/samueltorres/gastropoda</PackageProjectUrl>
+    <Copyright>Copyright 2017 Samuel Torres</Copyright>
+    <PackageLicenseUrl>https://raw.githubusercontent.com/samueltorres/gastropoda/master/LICENSE</PackageLicenseUrl>
+    <GeneratePackageOnBuild>True</GeneratePackageOnBuild>
   </PropertyGroup>
 
 </Project>
