@@ -13,8 +13,9 @@ It transforms something like this:
 `"coração ûltimatœ"` into `"coracao-ultimatoe"` which is awesome.
 
 ## How to use ?
-
-Just import the Gastropoda Extension and :
+1. Install Gastropoda via NuGet: [![NuGet](https://img.shields.io/nuget/v/Gastropoda.svg)](https://www.nuget.org/packages/MoqMeUp/)
+2. Import the namespace Gastropoda
+3. Apply the extension Slugify on a String
 
 ```c#
     string item = "coração ûltimatœ"; 
