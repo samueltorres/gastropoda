@@ -5,7 +5,7 @@
     <AssemblyName>Gastropoda</AssemblyName>
     <RootNamespace>Gastropoda</RootNamespace>
     <PackageId>Gastropoda</PackageId>
-    <PackageVersion>1.0.0</PackageVersion>
+    <PackageVersion>1.0.1</PackageVersion>
     <Authors>Samuel Torres</Authors>
     <Description>A very fast C# Slugifer</Description>
     <PackageRequireLicenseAcceptance>false</PackageRequireLicenseAcceptance>
