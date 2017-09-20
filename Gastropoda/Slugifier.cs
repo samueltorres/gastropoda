@@ -47,11 +47,6 @@
                         prevdash = false;
                     }
                 }
-                else
-                {
-                    slugBuilder.Append(c);
-                    prevdash = false;
-                }
             }
 
             var str = slugBuilder.ToString();
